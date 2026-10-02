@@ -88,3 +88,27 @@ ShadowGenerator 是一款专业的图片阴影生成工具，能够为透明背�
 | 1.2 | 2025-12 | 增加注册系统和防破解 |
 | 1.3 | 2026-01 | 优化阴影生成算法 |
 
+---
+
+## 🏢 关于我们
+
+<p align="center">
+  <a href="http://www.net188.net">
+    <img src="http://www.net188.net/images/logo1.png" alt="Net188 Logo" width="200" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Net188 · 互联网技术服务</strong>
+</p>
+
+<p align="center">
+  专注于跨平台应用开发、AI Agent 集成与大模型应用落地。<br/>
+  提供从产品设计、开发实施到部署运维的全栈技术解决方案。
+</p>
+
+<p align="center">
+  🌐 <a href="http://www.net188.net"><strong>www.net188.net</strong></a>
+</p>
+
+---
